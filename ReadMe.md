@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Booking System Web/Mobile Application for my Final Year Project.<br>👯 I’m not looking to collaborate right now.<br>🌱 I’m currently learning C# and Python for fun.<br>💬 Ask me about Web Development, I'm pretty good at it.<br>⚡ Fun fact: I'm learned to code from YouTube and with the help of my friends even though I have a Computer Science Degree.
+🔭 I’m currently working on to improve my game development skill.<br>👯 I’m not looking to collaborate right now.<br>🌱 I’m currently learning C# and Python for fun.<br>💬 Ask me about Web Development, I really love to talk about it as it expand my knowledge.<br>⚡ Fun fact: I'm learned to code from YouTube and with the help of my friends even though I have a Computer Science Degree.
 
 
 ## 🌐 Socials:
